@@ -9,7 +9,7 @@ Building scalable web & mobile applications with modern technologies while explo
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering student at ** NIT SURAT (Sardar Vallabhbhai National Institute of Technology (SVNIT))**
+🎓 B.Tech Computer Science & Engineering student at **NIT SURAT (SVNIT).**
 
 💻 Passionate about **Full Stack Development, Mobile Applications, Cloud Computing, and AI Integration**
 
