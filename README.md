@@ -1,25 +1,180 @@
 <h1 align="center">Hi 👋, I'm Ayush Narayane</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Full Stack Developer | Mobile App Developer | AI Enthusiast</h3>
 
-- 🔭 I’m currently Studying in **Sardar Vallabhbhai National Institute of Technology, Surat**
-
-- 🌱 I’m currently learning **AI/ML and integrating intelligent features into web and mobile apps**
-
-- 👯 I’m looking to collaborate on [SuperSixAcademy](https://drive.google.com/file/d/1-gxufaeLBy-iuVK704JiyKr601aX6Nwt/view?usp=drive_link)
-
-- ☁️ I’m also interested in [Cloud Technologies, especially GCP and Firebase.](Cloud Technologies, especially GCP and Firebase.)
-
-- 💬 Ask me about **React, Next.js, Firebase, and building real-time or scalable apps**
-
-- 📫 How to reach me **ayushnarayane12@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sJPZdrqT6PvbE_c5aM7rcD3Xtb8uI2uy/view?usp=drive_link](https://drive.google.com/file/d/1sJPZdrqT6PvbE_c5aM7rcD3Xtb8uI2uy/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayushnarayane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushnarayane" height="30" width="40" /></a>
+<p align="center">
+Building scalable web & mobile applications with modern technologies while exploring AI-powered solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+🎓 B.Tech Computer Science & Engineering student at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**
+
+💻 Passionate about **Full Stack Development, Mobile Applications, Cloud Computing, and AI Integration**
+
+🌱 Currently learning **Machine Learning, Generative AI, System Design, and Cloud-Native Development**
+
+🔭 Currently working on:
+- **FloatChat** – Oceanographic Data Platform using PostgreSQL & Parquet
+- **Super Six Academy** – Full-featured EdTech Mobile Application
+- AI-powered features for modern web & mobile applications
+
+👯 Open to collaborate on:
+- Full Stack Projects
+- AI/ML Applications
+- Open Source Contributions
+- React Native & Next.js Projects
+
+💬 Ask me about:
+- React.js & Next.js
+- React Native & Expo
+- Firebase & PostgreSQL
+- REST APIs & Backend Development
+- Docker, CI/CD & Deployment
+
+☁️ Interested in:
+- Google Cloud Platform (GCP)
+- Firebase Ecosystem
+- Cloud-Native Applications
+- AI Agents & LLM Applications
+
+📫 Reach me at:
+**ayushnarayane12@gmail.com**
+
+📄 Resume:
+[View Resume](https://drive.google.com/file/d/1sJPZdrqT6PvbE_c5aM7rcD3Xtb8uI2uy/view?usp=drive_link)
+
+---
+
+## 🏆 Featured Projects
+
+### 📚 Super Six Academy
+Full-stack EdTech mobile application serving students with:
+- QR-based Attendance System
+- Course & Content Management
+- Quiz Engine & Performance Analytics
+- Secure Authentication
+- Payment Integration
+- Role-Based Access Control
+
+**Tech Stack:** React Native, Expo, Firebase, Firestore
+
+---
+
+### 🛠️ Helper Buddy
+Service marketplace platform connecting customers with service providers.
+
+**Features**
+- Real-time booking management
+- Razorpay payment integration
+- Referral & Wallet System
+- Admin Dashboard
+- Advanced Search & Filtering
+
+**Tech Stack:** Next.js, Firebase, MongoDB, Express.js, Razorpay
+
+---
+
+### ⚔️ Wiki Wars
+Interactive Wikipedia-based multiplayer challenge platform.
+
+**Features**
+- Real-time gameplay
+- Dynamic Wikipedia integration
+- Authentication & User Management
+- Email Notifications
+- Dockerized Deployment
+- CI/CD Pipeline
+
+**Tech Stack:** Next.js, Firebase, Wikimedia API, Docker, GitHub Actions, Jest
+
+---
+
+### 🌊 FloatChat
+Oceanographic data platform designed for efficient querying and analysis of ARGO float datasets.
+
+**Features**
+- PostgreSQL Normalized Schema
+- Parquet-based Storage Layer
+- Scientific Data Processing
+- Large-scale Data Query Optimization
+
+**Tech Stack:** PostgreSQL, Python, Data Engineering
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern — EnergInAI
+- Developed and maintained production-grade web applications
+- Worked across frontend, backend, cloud infrastructure, and databases
+- Built scalable solutions for energy monitoring and optimization
+
+### Full Stack Web Developer Intern — Wecofy Technotides
+- Developed restaurant subscription platform
+- Built QR-based ordering system
+- Worked on Admin and Restaurant Dashboards
+- Implemented backend APIs and frontend interfaces
+
+### Cyber Security Virtual Intern — C-DAC Noida
+- Performed security testing and vulnerability assessments
+- Learned enterprise-grade cybersecurity practices
+- Analyzed software security risks and mitigation techniques
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ayushnarayane" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Narayane-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushNarayane&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushNarayane&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushNarayane&layout=compact&theme=tokyonight" />
+</p>
